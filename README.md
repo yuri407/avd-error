@@ -14,4 +14,4 @@
 ![branch](https://user-images.githubusercontent.com/79883558/111312502-b2f29b80-86a2-11eb-853c-65742d5c61e5.png)
 
 ![error](https://user-images.githubusercontent.com/79883558/111312509-b4bc5f00-86a2-11eb-9363-3f5b9aec15e2.png)
-근데 AVD가 안되고 계속 The emulator process for AVD pixel was killed 라는 문구가 계속 떠서 실습을 계속 할 수가 없습니다.
+근데 AVD가 안되고 계속 The emulator process for AVD pixel was killed 라는 문구가 계속 떠서 실습을 계속 할 수가 없습니다ㅠㅠㅠ
